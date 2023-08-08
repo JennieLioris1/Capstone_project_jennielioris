@@ -1,0 +1,18 @@
+As explained in the read me file, it is made the choice to have the data folders localy in the computer.
+Due to github limitations it is  not possible to upload the data folder directly from the website. 
+I tried to clone the repositoy locally to the computer but still some troubles appear.
+
+From this point of view it would be preferable to modify the code to read directly the data from the url.
+In order to do it is not only the code that should be changed but also the README file 
+containing all the explanations and the
+justifications for having prefered to  store the data localy to the computer.
+Consequently the  data folder necessary to run the software is not included in the repository.
+As mentioned in the README file the data  was downloaded from the url 
+https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018 
+and hopefully the datasets are available to be downloaed or used by this time.
+So in the folder named data_new_1 file '2009_csv' or any other should be included.
+
+I regret for this uncovenience but this work was made within too short  time
+and i have spend many hours to complete the software and  make it as efficient as possible.
+There is no remaining time to search how to upload large folders in github.
+Thank you.
